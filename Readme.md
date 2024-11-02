@@ -11,3 +11,6 @@
 - [Handling Time](./Tutorial/07tut/index.md)
 - [Build for Windows, Linux, Mac](./Tutorial/08tut/index.md)
 - [Memory management in Go](./Tutorial/09tut/index.md)
+- [Pointers](./Tutorial/10tut/index.md)
+- [Arrays in GoLang](./Tutorial/11tut/index.md)
+- [Slices in GoLang](./Tutorial/12tut/index.md)
