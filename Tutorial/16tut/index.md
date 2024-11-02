@@ -1,7 +1,7 @@
-# Maps In Go Lang
+# Switch Case
 
 Initialize and Follow [main.go](./main.go)
 
 ---
 [Back to Contents](../../Readme.md)
-[Next Tutorial](../14tut/index.md)
+[Next Tutorial](../17tut/index.md)
