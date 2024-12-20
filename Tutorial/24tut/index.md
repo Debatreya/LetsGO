@@ -1,4 +1,4 @@
-# Creating Server for Golang Frontend
+# How To make GET request?
 
 Initialize and Follow [main.go](./main.go)
 
