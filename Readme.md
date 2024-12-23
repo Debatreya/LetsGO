@@ -32,3 +32,4 @@
 - [How To decode JSON Data?](./Tutorial/28tut/index.md)
 - [go `MOD` init](./Tutorial/29tut/index.md)
 - [Building APIs in Go](./Tutorial/30tut/index.md)
+- [Building APIs in Go (Modular)](./Tutorial/31API/index.md)
