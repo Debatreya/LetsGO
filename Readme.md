@@ -1,5 +1,6 @@
-# Go for Go-fers
-
+# Go for Gophers
+![](./assets/gopher.png)
+<!-- ![](./assets/gorillaMux.png) -->
 ## Content
 ### Tutorials
 - [Introduction](./Tutorial/intro.md)
@@ -40,5 +41,12 @@
 - [Channels and Deadlock](./Tutorial/35tut/index.md)
 - [Math Crypto Random](./Tutorial/36tut/index.md)
   
-### Projects
+                            
+![](./assets/mongo-gopher.png)
+
+
+### Projects 
 - [Simple TCP Echo Server](./Projects/Simple%20TCP%20Echo%20Server/README.md)
+
+
+
