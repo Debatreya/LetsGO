@@ -33,3 +33,8 @@
 - [go `MOD` init](./Tutorial/29tut/index.md)
 - [Building APIs in Go](./Tutorial/30tut/index.md)
 - [Building APIs in Go (Modular)](./Tutorial/31API/index.md)
+- [Concurrency in Go (what is go Famous for?)](./Tutorial/32tut/index.md)
+- [Mutex in Golang](./Tutorial/33tut/index.md)
+- [Race Condition](./Tutorial/34tut/index.md)
+- [Channels and Deadlock](./Tutorial/35tut/index.md)
+- [Math Crypto Random](./Tutorial/36tut/index.md)
